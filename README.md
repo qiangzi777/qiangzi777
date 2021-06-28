@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @qiangzi777
+- 👀 I’m interested in android, qt, linux, python.
+- 🌱 I’m currently learning android, python, e.t.
+- 💞️ I’m looking to collaborate on AI.
+- 📫 How to reach me ...email:40415221@qq.com
